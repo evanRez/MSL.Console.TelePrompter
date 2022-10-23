@@ -1,0 +1,15 @@
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/teleprompt
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/teleprompt.deps.json
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/teleprompt.runtimeconfig.json
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/teleprompt.dll
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/ref/teleprompt.dll
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/bin/Debug/net6.0/teleprompt.pdb
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.csproj.AssemblyReference.cache
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.AssemblyInfoInputs.cache
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.AssemblyInfo.cs
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.csproj.CoreCompileInputs.cache
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.dll
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/ref/teleprompt.dll
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.pdb
+/Users/evanreznicek/Desktop/dotnet-practice/teleprompt/obj/Debug/net6.0/teleprompt.genruntimeconfig.cache
